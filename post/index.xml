@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://antoinerahal.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://antoinerahal.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airbnb Price Prediction Using Machine Learning</title>
+      <link>https://antoinerahal.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Sun, 29 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://antoinerahal.github.io/Portfolio/post/project-1/</guid>
+      <description>The objective is to use Airbnb’s publicly available data in order to develop business logic to help hosts find the optimal pricing for their listings. Performed EDA, Feature Engineering and Data Cleaning. Used recursive feature elimination to find the most important features. Considered several machine learning models in order to find the optimal one: random forest regressor (RF), Support Vector Regression (SVR), Gradient Boosting Tree Ensemble (GB) and extreme gradient boosting (XGBoost).</description>
+    </item>
+    
+    <item>
+      <title>Visualize Survey Responses using Tableau Dashboard</title>
+      <link>https://antoinerahal.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Sat, 28 May 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://antoinerahal.github.io/Portfolio/post/project-2/</guid>
+      <description>Link to Dashboard
+The economic crisis had a very profound impact on Lebanese society as a whole. It negatively affected the productivity and mental health of many and ignited the desire for emigration in people who had never considered it previously. In addition, as was shown in the survey the majority of the respondents are pessimistic about the future in Lebanon. However, a large number of respondents never considered leaving Lebanon before the economic crisis and a large number of them would stay if the situation improved.</description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting for car accidents in Lebanon</title>
+      <link>https://antoinerahal.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Fri, 27 May 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://antoinerahal.github.io/Portfolio/post/project-4/</guid>
+      <description>Lebanon’s car accidents have always been a significant cause of the number of deaths, especially in the last few years when people of young age were dying mostly due to car accidents.
+The models that will be used to predict the number of traffic car accidents are autoregressive integrated moving average (ARIMA) model and Exponential Smoothing (ETS).
+ Car accidents in Lebanon show a repeated pattern with more or less constant variance across time until 2015 which indicates seasonality, after 2015 we started observing a decreasing trend until 2017 and the data started to increase again thereafter.</description>
+    </item>
+    
+    <item>
+      <title>Infant Mortality Rate Web App using Streamlit</title>
+      <link>https://antoinerahal.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Fri, 27 May 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://antoinerahal.github.io/Portfolio/post/project-3/</guid>
+      <description>The streamlit interactive web app can be found here.
+Example:
+  This Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
